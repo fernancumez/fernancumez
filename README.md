@@ -11,7 +11,9 @@
   
 <p> 
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
-  <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
 
 <h3>Where to find me:</h3>
 <p>
