@@ -6,6 +6,7 @@
 <p>
   Welcome to my page! 
   </br> I'm Fernando, Junior developer from 
+  <img src="https://image.flaticon.com/icons/svg/197/197597.svg" width="13"/>
   <b>Guatemala</b>.
   <h3>Things I code with</h3>
   
@@ -13,6 +14,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
 
 <h3>Where to find me:</h3>
