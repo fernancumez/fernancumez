@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my page! 
-  </br> I'm Fernando, Junior developer from 
+  </br> I'm Fernando, Software developer from 
   <img src="https://image.flaticon.com/icons/svg/197/197597.svg" width="13"/>
   <b>Guatemala</b>.
   <h3>Things I code with</h3>
