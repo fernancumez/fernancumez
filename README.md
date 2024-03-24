@@ -5,9 +5,7 @@
 
 <p>
   Welcome to my page! 
-  </br> I'm Fernando, Software developer from 
-  <img src="https://image.flaticon.com/icons/svg/197/197597.svg" width="13"/>
-  <b>Guatemala</b>.
+  </br> I'm Fernando, Software developer from <b>Guatemala</b>.
   <h3>Things I code with</h3>
   
 <p> 
@@ -26,17 +24,8 @@
 
 <h3>Where to find me:</h3>
 <p>
-  <a href="https://twitter.com/fernancumez" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
   <a href="https://www.linkedin.com/in/fernancumez" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.facebook.com/100013315538188" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.freecodecamp.org/fernancumez" target="_blank">
-    <img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-%23007735.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"/>
   </a>
 </p>
 
